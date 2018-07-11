@@ -1,14 +1,12 @@
-# Update 4.2.8 Changelog
+# Update 4.1.10 Changelog
 
-### Back-end changes
+### Bugs fixes
 
-* Releases are now tracked on Sentry to make tracking down issues source faster
-* Added partial typings and tests cover; The cover will be completed in multiple updates
+* Fixed a bug where some image-generation commands would fail if the user had no avatar
 
 ### Commits
 
-* [[e6b35d](https://github.com/ParadoxalCorp/felix-production/commit/e6b35d6afb507f884c2397186af333cadd4e382e)] - Track releases on Sentry
-* [[786af6](https://github.com/ParadoxalCorp/felix-production/commit/786af68f10c13707bdbefbaa1e3d752a92ce8c59)] - Merge pull request [#32](https://github.com/ParadoxalCorp/felix-production/pull/32) from ParadoxalCorp/JSDoc-update (25 commits)
+* [[e8cbdd](https://github.com/ParadoxalCorp/felix-production/commit/e8cbdd379bf3ec0bf372c77efa0dd253da6a15e1)] - Address issue [#40](https://github.com/ParadoxalCorp/felix-production/issues/40)
 
 # Update 4.1.9 Changelog
 
